@@ -16,7 +16,7 @@
       "name": "MOON",
       "symbol": "MOON",
       "decimals": 18,
-      "logoURI": "https://moonbeam.network/wp-content/uploads/2020/03/cropped-Moonbeam-Favicon-550px.png"
+      "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/logo.png"
     },
     {
       "address": "0x2C3eEbC3Ec8553dD014084a3C44a277418e63a0F",
@@ -24,7 +24,7 @@
       "name": "BRICK",
       "symbol": "xBRICK",
       "decimals": 18,
-      "logoURI": "https://moonbeam.network/wp-content/uploads/2020/03/cropped-Moonbeam-Favicon-550px.png"
+      "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/bricks.png"
     }
   ],
   "version": {
