@@ -1,4 +1,3 @@
-# token-lists
-Token list of RCPSwap
+RCPSWAP
 
-This displays the tokens on RCPSWAP
+RCPSwap is an exchange that let you swap RCP's (Reddit Community Points)
