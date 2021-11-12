@@ -1,0 +1,35 @@
+{
+  "name": "RCPSwap Menu",
+  "logoURI": "https://moonbeam.network/wp-content/uploads/2020/03/cropped-Moonbeam-Favicon-550px.png",
+  "keywords": [
+    "rcpswap", 
+    "rcp swap", 
+    "bricks",
+    "moons",
+    "swap"
+  ],
+  "timestamp": "2020-09-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0x138fAFa28a05A38f4d2658b12b0971221A7d5728",
+      "chainId": 5391184,
+      "name": "MOON",
+      "symbol": "MOON",
+      "decimals": 18,
+      "logoURI": "https://moonbeam.network/wp-content/uploads/2020/03/cropped-Moonbeam-Favicon-550px.png"
+    },
+    {
+      "address": "0x2C3eEbC3Ec8553dD014084a3C44a277418e63a0F",
+      "chainId": 5391184,
+      "name": "BRICK",
+      "symbol": "xBRICK",
+      "decimals": 18,
+      "logoURI": "https://moonbeam.network/wp-content/uploads/2020/03/cropped-Moonbeam-Favicon-550px.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+    }
+}
