@@ -22,7 +22,7 @@
       "address": "0x2C3eEbC3Ec8553dD014084a3C44a277418e63a0F",
       "chainId": 5391184,
       "name": "BRICK",
-      "symbol": "xBRICK",
+      "symbol": "BRICK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/bricks.png"
     }
