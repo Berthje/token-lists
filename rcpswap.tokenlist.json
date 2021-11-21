@@ -36,14 +36,6 @@
       "symbol": "rMOOND",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/moond.png"
-    },
-    {
-      "address": "0x138fAFa28a05A38f4d2658b12b0971221A7d5728",
-      "chainId": 5391184,
-      "name": "MddOON",
-      "symbol": "MddOON",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/logo.png"
     }
   ],
   "version": {
