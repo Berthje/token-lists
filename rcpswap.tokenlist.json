@@ -1,5 +1,12 @@
 {
   "name": "RCPSwap Menu",
+  "timestamp": "2020-09-01T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
   "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/logo.png",
   "keywords": [
     "rcpswap", 
@@ -11,36 +18,30 @@
     "moonsdust",
     "reddit"
   ],
-  "timestamp": "2020-09-01T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0x138fAFa28a05A38f4d2658b12b0971221A7d5728",
       "chainId": 5391184,
-      "name": "MOON",
+      "address": "0x138fAFa28a05A38f4d2658b12b0971221A7d5728",
       "symbol": "MOON",
+      "name": "MOON",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/logo.png"
     },
     {
-      "address": "0x2C3eEbC3Ec8553dD014084a3C44a277418e63a0F",
       "chainId": 5391184,
-      "name": "BRICK",
+      "address": "0x2C3eEbC3Ec8553dD014084a3C44a277418e63a0F",
       "symbol": "BRICK",
+      "name": "BRICK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/bricks.png"
     },
     {
-      "address": "0x5B898300C73E4327052fe5A89b265354AdDb68F4",
       "chainId": 5391184,
-      "name": "rMOOND",
+      "address": "0x5B898300C73E4327052fe5A89b265354AdDb68F4",
       "symbol": "rMOOND",
+      "name": "rMOOND",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/moond.png"
     }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-    }
+  ]
 }
