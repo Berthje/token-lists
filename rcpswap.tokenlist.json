@@ -16,7 +16,8 @@
     "swap",
     "moond",
     "moonsdust",
-    "reddit"
+    "reddit",
+    "rbusd"
   ],
   "tokens": [
     {
@@ -42,6 +43,14 @@
       "name": "rMOOND",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/moond.png"
+    },
+    {
+      "chainId": 5391184,
+      "address": "0x0273d016067e74b0093A17503af05C5a88Ee5f8F",
+      "symbol": "rBUSD",
+      "name": "rBUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Berthje/token-lists/main/busd.png"
     }
   ]
 }
